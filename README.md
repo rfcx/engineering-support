@@ -4,9 +4,11 @@ Tools and processes for managing bugs, problems and blockers involving the RFCx 
 
 ## Tools
 
+[Create a new issue](https://github.com/rfcx/engineering-support/issues/new/choose).
+
 Issues are triaged and managed in the [Engineering Support GitHub project](https://github.com/orgs/rfcx/projects/10).
 
-New issues are created by Engineering in this repo: [Create a new issue](https://github.com/rfcx/engineering-support/issues/new/choose).
+New issues are created by Engineering in the current repo by default, but can be transferred to a product-specific repo after triaging.
 
 ## Support Options
 
