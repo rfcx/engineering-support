@@ -18,7 +18,7 @@ If you have access to Slack then posting issues in the #eng-support channel will
 
 ### HelpScout
 
-External users can send a message to a support agent via support.rfcx.org or they can email support@rfcx.org. Both
+External users can send a message to a support agent via support.rfcx.org or they can email support@rfcx.org. Both result in a conversation thread in HelpScout.
 
 
 ## Support Process
