@@ -23,7 +23,7 @@ External users can send a message to a support agent via support.rfcx.org or the
 
 ```mermaid
 flowchart LR;
-  input1[External user reports issue to [support@rfcx.org](mailto:support@rfcx.org) or HelpScout]-->p1[Engineering logs issue in GitHub board];
+  input1[External user reports issue to support at rfcx.org or HelpScout]-->p1[Engineering logs issue in GitHub board];
   input2[Internal user reports issue on Slack #eng-support]-->p1;
   p1-->p2[Engineering triages the issue and assigns an expected resolution date for business critical issues];
   p2-->p3[Issue closed];
